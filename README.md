@@ -11,4 +11,4 @@
 ## ✨ Sobre Minha Seleção do Brasileirão
 > O objetido da Minha Seleção do Brasileirão, é o usuário poder selecionar seus jogadores favoritos e<br>
 também, poder escolher o esquema tático de jogo.
-https://keidsondesigner.github.io/menu-responsivo/
+https://keidsondesigner.github.io/MinhaSelecaoBrasileirao/
