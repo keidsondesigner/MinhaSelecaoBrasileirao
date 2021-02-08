@@ -9,6 +9,6 @@
 [![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=FFFF00)](https://github.com/iuricode/ensinando-frontend/blob/main/modulos/javascript/javascript.br.md)
 
 ## ✨ Sobre Minha Seleção do Brasileirão
-> O objetido da Minha Seleção do Brasileirão, é o usuário poder selecionar seus jogadores favoritos e<br>
+> O objetivo da Minha Seleção do Brasileirão, é o usuário poder selecionar seus jogadores favoritos e<br>
 também, poder escolher o esquema tático de jogo.
 https://keidsondesigner.github.io/MinhaSelecaoBrasileirao/
