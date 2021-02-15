@@ -1,6 +1,6 @@
 # ⚽ Minha Seleção do Brasileirão
 
-> Esse repositório tem como objetivo principal apresentar meus estudos e aplicar em projetos pessoias.
+> Esse repositório tem como objetivo principal de apresentar meus estudos e aplicar em projetos pessoias.
 
 ## ☕ Tecnologias Usadas
 
