@@ -1,4 +1,4 @@
-# ⚽ Minha Seleção do Brasileirão
+# 📱💰 Conheça o WalletApp.
 
 > Esse repositório tem como objetivo principal de apresentar meus estudos e aplicar em projetos pessoias.
 
@@ -8,7 +8,10 @@
 [![CSS](https://img.shields.io/badge/css%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=2E64FE)](#)
 [![JAVASCRIPT](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=css&logoColor=black&color=FFFF00)](#)
 
-## ✨ Sobre Minha Seleção do Brasileirão
-> O objetivo da Minha Seleção do Brasileirão, é o usuário poder selecionar seus jogadores favoritos e<br>
-também, poder escolher o esquema tático de jogo.
+
+## ✨Sobre o WalletApp.
+> O objetivo do o WalletApp, é o usuário poder gerenciar seus gastos financeiros,
+acompanhar entradas e saidas de transações, adicionar ou excluir transações,
+por fim acompnhar seu saldo final das transações.
+
 https://keidsondesigner.github.io/MinhaSelecaoBrasileirao/
