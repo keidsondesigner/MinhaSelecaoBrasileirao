@@ -10,8 +10,8 @@
 
 
 ## ✨Sobre o WalletApp.
-> O objetivo do o WalletApp, é o usuário poder gerenciar seus gastos financeiros,
-acompanhar entradas e saidas de transações, adicionar ou excluir transações,
-por fim acompnhar seu saldo final das transações.
+> O objetivo do WalletApp, é o usuário gerenciar seus gastos financeiros,
+acompanhar entradas e saídas de transações, adicionar ou excluir transações,
+por fim acompanhar seu saldo final das transações.
 
 https://keidsondesigner.github.io/MinhaSelecaoBrasileirao/
